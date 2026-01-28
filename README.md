@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Osama Jamal
 
-<!--
-**osama-0868/osama-0868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer & Programmer**  
+🌐 Specialized in building modern, responsive websites  
+🚀 Passionate about learning and creating real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I'm Osama Jamal, a web developer who enjoys turning ideas into clean and functional websites.  
+I focus on writing simple, readable code and continuously improving my skills.
+
+---
+
+## 🛠 Skills & Technologies
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Git & GitHub
+
+---
+
+## 📂 Projects
+- 🌐 Portfolio Website  
+- 🖼 Image Gallery Website  
+- 💡 Small Web Applications  
+
+> More projects coming soon...
+
+---
+
+## 🌱 Currently Learning
+- Advanced JavaScript  
+- Firebase  
+- Front-End Best Practices  
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/osama-0868
+
+---
+
+⭐ Feel free to explore my repositories and follow my journey!
