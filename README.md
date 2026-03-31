@@ -1,7 +1,7 @@
 # Hi 👋 I'm Osama Jamal
 
 💻 **Web Developer & Programmer**  
-🌐 Specialized in building modern, responsive websites  
+🌐 Specialized in building modern, responsive websites 
 🚀 Passionate about learning and creating real-world projects  
 
 ---
